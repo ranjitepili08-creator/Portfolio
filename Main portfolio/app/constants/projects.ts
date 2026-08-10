@@ -31,6 +31,11 @@ export const PROJECTS: Project[] = [
     subtext: 'A PlayStation game management platform that allows users to organize their game library, track gameplay progress, record hours played, and manage multiple accounts.',
     url: 'https://psvault.netlify.app/login.html',
   },
-  
+  {
+    title: 'La Roche Cafe',
+    
+    subtext: 'La Roche Café will be a full-stack college canteen ordering app (Expo/React Native + FastAPI/MongoDB) where students order and track food via QR pickup, and kitchen staff manage orders on a live dashboard..',
+    url: '',
+  },
   
 ];
