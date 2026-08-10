@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     title: 'La Roche Cafe',
     
     subtext: 'La Roche Café will be a full-stack college canteen ordering app (Expo/React Native + FastAPI/MongoDB) where students order and track food via QR pickup, and kitchen staff manage orders on a live dashboard..',
-    url: '',
+   
   },
   
 ];
