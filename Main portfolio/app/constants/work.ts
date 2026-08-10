@@ -31,17 +31,17 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     position: 'left',
   },
   {
-    point: new THREE.Vector3(-2, -1, -8),
+    point: new THREE.Vector3(1, 1, -12),
     year: 'Currently',
     title: 'EYECONIC',
     subtitle: 'Operations head',
     position: 'left',
   },
   {
-    point: new THREE.Vector3(1, 1, -12),
+    point: new THREE.Vector3(-2, -1, -8)
     year: new Date().toLocaleDateString('default', { year: 'numeric' }),
-    title: 'Living...',
-    subtitle: '↓ 288K tokens',
+    title: 'Shah and Anchor Kutchhi Enginnering college...',
+    subtitle: 'BTECH - ECS',
     position: 'right',
   }
 ]
