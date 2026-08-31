@@ -38,7 +38,7 @@ export const WORK_TIMELINE: WorkTimelinePoint[] = [
     position: 'left',
   },
   {
-    point: new THREE.Vector3(-2, -3 , -10),
+    point: new THREE.Vector3(2, 2, -1),
     year: new Date().toLocaleDateString('default', { year: 'numeric' }),
     title: 'Shah and Anchor Kutchhi Enginnering college...',
     subtitle: 'BTECH - ECS',
